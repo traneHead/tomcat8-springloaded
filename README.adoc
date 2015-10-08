@@ -1,6 +1,6 @@
-= Tomcat 8 Docker image with Springloaded =
+= Tomcat 8 Docker image with Spring Loaded =
 
-Repo for Dockerfile to run Tomcat-8 with the https://github.com/spring-projects/spring-loaded[Springloaded agent].
+Repo for Dockerfile to run Tomcat-8 with the https://github.com/spring-projects/spring-loaded[Spring Loaded Java agent].
 
 It is derived from the Tomcat:8-jre8 Dockerfie at https://github.com/docker-library/tomcat/blob/df283818c14e8f24c294e2d3cd23099ef92e6643/8-jre8/Dockerfile[the docker-library on github].
 
